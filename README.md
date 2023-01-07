@@ -1,5 +1,5 @@
 # js-22
-
+https://www.youtube.com/watch?v=Zm-03ilbFnc   
 - Терминал
   - [Шпаргалка 1](https://tproger.ru/translations/bash-cheatsheet/)
   - [Шпаргалка 2](https://habr.com/ru/company/ruvds/blog/445270/)
